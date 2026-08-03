@@ -1,6 +1,8 @@
 # AI-Loan-Risk-Analysis-System
 ### AI-powered Loan Decision Support System built with SQL, Power BI, n8n, Streamlit, PostgreSQL, and Groq LLM.
 
+## An end-to-end AI-powered Loan Risk Analysis System that combines SQL-based ETL, Business Intelligence (Excel & Power BI), Workflow Automation (n8n), PostgreSQL, and Generative AI (Groq LLM) to deliver explainable credit risk assessments through a natural language interface.
+
 
 ![Project Banner](Images/banner.png)
 
