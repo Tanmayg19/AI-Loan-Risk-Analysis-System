@@ -3,6 +3,10 @@
 
 ## An end-to-end AI-powered Loan Risk Analysis System that combines SQL-based ETL, Business Intelligence (Excel & Power BI), Workflow Automation (n8n), PostgreSQL, and Generative AI (Groq LLM) to deliver explainable credit risk assessments through a natural language interface.
 
+<p align="center">
+  <img src="images/banner.png" alt="AI Loan Risk Analysis System" width="100%">
+</p>
+
 
 ![Project Banner](Images/banner.png)
 
