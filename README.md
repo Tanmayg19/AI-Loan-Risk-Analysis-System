@@ -23,7 +23,7 @@
 
 This project demonstrates an end-to-end AI-powered Loan Risk Analysis System that combines Business Intelligence, Workflow Automation, Relational Databases, and Generative AI.
 
-
+The project begins with SQL-based ETL and Exploratory Data Analysis, followed by interactive dashboards in Excel and Power BI. Finally, an AI-powered application was developed using n8n, PostgreSQL, Groq LLM, and Streamlit, enabling users to query loan information in natural language and receive explainable credit risk assessment
 
 ## 🏗️ System Architecture
 
@@ -121,7 +121,8 @@ Workflow Steps:
 ## 👨‍💻 Author
 
 **Tanmay Gautam**
+
 https://www.linkedin.com/in/tanmay-gautam-59443b23/
+
 tanmayg19@gmail.com  
 
-project begins with SQL-based ETL and Exploratory Data Analysis, followed by interactive dashboards in Excel and Power BI. Finally, an AI-powered application was developed using n8n, PostgreSQL, Groq LLM, and Streamlit, enabling users to query loan information in natural language and receive explainable credit risk assessmen
