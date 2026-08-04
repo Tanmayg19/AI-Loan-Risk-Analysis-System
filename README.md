@@ -132,6 +132,34 @@ Workflow Steps:
 5. Streamlit displays the response.
 
 
+---
+
+# ⚡ Workflow Automation using n8n
+
+The AI automation layer was developed using **n8n**, enabling seamless integration between PostgreSQL, Groq LLM, and the Streamlit application.
+
+The workflows automate loan data retrieval, natural language processing, AI-powered risk explanation, and user response generation.
+
+---
+
+## 🔄 Workflow 1 – AI Loan Analysis Workflow
+
+This workflow receives a natural language query, extracts the Loan ID, retrieves loan information from PostgreSQL, and prepares structured data for AI processing.
+
+<p align="center">
+  <img src="images/workflow-1.png" width="1000">
+</p>
+
+---
+
+## 🤖 Workflow 2 – AI Loan Decision Explanation Workflow
+
+This workflow generates explainable loan risk assessments using **Groq LLM**, validates loan records, handles invalid loan IDs, and returns structured responses to the Streamlit web application.
+
+<p align="center">
+  <img src="images/workflow-2.png" width="1000">
+</p>
+
 ## Streamlit
 
 # 🚀 Project Demo
