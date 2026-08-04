@@ -79,6 +79,25 @@ This project bridges that gap by combining Business Intelligence with Generative
 
 ![Excel Dashboard](Images/excel_dashboard.png)
 
+---
+
+# 📈 Excel Dashboard
+
+The project includes interactive Excel dashboards used during the exploratory analysis stage before building the Power BI solution.
+
+## Dashboard 1
+
+<p align="center">
+  <img src="images/excel-dashboard.png" width="900">
+</p>
+
+---
+
+## Dashboard 2
+
+<p align="center">
+  <img src="images/excel-dashboard_2.png" width="900">
+</p>
 
 ![Executive Dashboard](Images/powerbi_overview.png)
 
