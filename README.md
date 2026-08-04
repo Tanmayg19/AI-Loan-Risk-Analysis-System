@@ -115,6 +115,22 @@ Workflow Steps:
 
 ## Streamlit
 
+# 🚀 Project Demo
+
+The Streamlit application allows users to query loan decisions using natural language. It communicates with an automated n8n workflow, retrieves loan information from PostgreSQL, and generates AI-powered explanations using Groq LLM.
+
+## 🏠 Streamlit Home Page
+
+<p align="center">
+  <img src="images/streamlit-home.png" width="900">
+</p>
+
+## 🤖 AI Loan Decision Explanation
+
+<p align="center">
+  <img src="images/streamlit-analysis.png" width="900">
+</p>
+
 
 ## 🚀 Future Enhancements
 
