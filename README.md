@@ -33,6 +33,10 @@ The project begins with SQL-based ETL and Exploratory Data Analysis, followed by
 
 ![Architecture](Images/architecture.png)
 
+<p align="center">
+  <img src="images/architecture.png" width="1000">
+</p>
+
 ## 🔄 Project Workflow
 
 Raw Dataset
