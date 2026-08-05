@@ -108,9 +108,7 @@ Some project files exceed GitHub's recommended file size limit. They are availab
 
 | File | Download |
 |------|----------|
-| 📊 Excel Dashboard | [Download Excel Workbook](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE) |
-| 📈 Power BI Dashboard | Coming Soon |
-
+| 📊 Excel Dashboard | [Download Excel Workbook]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE](https://docs.google.com/spreadsheets/d/11cXF4Ua8mLVkCmEq2auOLMJTHj2kYTmd/edit?usp=drive_link&ouid=104471324997452006420&rtpof=true&sd=true) |
 
 
 ![Executive Dashboard](Images/powerbi_overview.png)
