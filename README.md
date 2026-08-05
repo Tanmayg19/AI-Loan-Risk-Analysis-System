@@ -99,9 +99,25 @@ The project includes interactive Excel dashboards used during the exploratory an
   <img src="images/excel-dashboard_2.png" width="900">
 </p>
 
+
+---
+
+# 📥 Download Project Files
+
+Some project files exceed GitHub's recommended file size limit. They are available through Google Drive.
+
+| File | Download |
+|------|----------|
+| 📊 Excel Dashboard | [Download Excel Workbook](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE) |
+| 📈 Power BI Dashboard | Coming Soon |
+
+
+
 ![Executive Dashboard](Images/powerbi_overview.png)
 
 ---
+
+
 
 # 📊 Power BI Dashboard
 
