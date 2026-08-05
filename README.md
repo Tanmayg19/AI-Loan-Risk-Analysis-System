@@ -101,6 +101,41 @@ The project includes interactive Excel dashboards used during the exploratory an
 
 ![Executive Dashboard](Images/powerbi_overview.png)
 
+---
+
+# 📊 Power BI Dashboard
+
+The Power BI solution transforms the cleaned loan dataset into interactive dashboards that provide comprehensive insights into portfolio performance, credit risk, and customer behavior.
+
+---
+
+## 📌 Portfolio Overview
+
+This dashboard provides a high-level view of the overall loan portfolio, highlighting key business KPIs, lending trends, and portfolio performance.
+
+<p align="center">
+  <img src="images/Portfolio Overview.png" width="1000">
+</p>
+
+---
+
+## ⚠️ Credit & Risk Analysis
+
+This dashboard focuses on borrower risk profiles, loan performance, and credit quality, helping identify potential risk areas and support informed lending decisions.
+
+<p align="center">
+  <img src="images/Credit & Risk Analysis.png" width="1000">
+</p>
+
+---
+
+## 👥 Customer Insights
+
+This dashboard analyzes customer demographics, loan behavior, and borrower characteristics, enabling deeper understanding of customer segments and lending patterns.
+
+<p align="center">
+  <img src="images/Customers Insights.png" width="1000">
+</p>
 
 ![Sales Dashboard](Images/powerbi_sales.png)
 
